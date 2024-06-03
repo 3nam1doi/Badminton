@@ -1,0 +1,64 @@
+.frame,
+.frame1 {
+  position: absolute;
+  top: 1000px;
+  left: 219.7px;
+  width: 1287.5px;
+  height: 190px;
+  overflow: hidden;
+}
+.frame1 {
+  top: 1228px;
+  left: 176px;
+  width: 1375px;
+  height: 1362px;
+}
+.more,
+.more-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.more {
+  width: 251px;
+  position: relative;
+  font-size: 30px;
+  letter-spacing: 0.01em;
+  font-family: var(--font-kdam-thmor);
+  color: var(--color-black);
+  text-align: center;
+  flex-shrink: 0;
+}
+.more-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs);
+  background-color: var(--color-lightsteelblue);
+  position: absolute;
+  height: 100%;
+  width: 90.22%;
+  top: 0;
+  right: 9.78%;
+  bottom: 0;
+  left: 0;
+  border-radius: 20px;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.frame2 {
+  position: absolute;
+  top: 2647px;
+  left: 705px;
+  width: 317px;
+  height: 68px;
+  overflow: hidden;
+}
+  
+.guest {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3226px;
+  overflow: hidden;
+}
+

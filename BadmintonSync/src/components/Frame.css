@@ -1,0 +1,252 @@
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-lightsteelblue);
+  width: 1728px;
+  height: 460.6px;
+}
+.proofers-offer-a {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 27px;
+  display: inline-block;
+  width: 572.4px;
+  height: 151.3px;
+}
+.proofers-offer-a-wide-variety-wrapper {
+  position: absolute;
+  top: 65px;
+  left: 0;
+  width: 572.4px;
+  height: 151.3px;
+}
+.home,
+.pricing,
+.quick-links,
+.services,
+.submit-ordr {
+  position: absolute;
+  top: 65px;
+  left: 0;
+  display: inline-block;
+  width: 64.8px;
+  height: 30.3px;
+}
+.pricing,
+.quick-links,
+.services,
+.submit-ordr {
+  top: 189.5px;
+  width: 130.8px;
+}
+.pricing,
+.quick-links,
+.services {
+  top: 106.5px;
+  width: 90px;
+}
+.pricing,
+.quick-links {
+  top: 148px;
+  width: 73.2px;
+}
+.quick-links {
+  top: 0;
+  font-size: var(--font-size-7xl);
+  line-height: 28px;
+  font-weight: 600;
+  width: 177.6px;
+  height: 31.4px;
+}
+.home-parent,
+.subscribe-newsletter {
+  position: absolute;
+  top: 0;
+  left: 703.2px;
+  width: 177.6px;
+  height: 219.7px;
+}
+.subscribe-newsletter {
+  left: 0;
+  line-height: 28px;
+  font-weight: 600;
+  display: inline-block;
+  width: 336px;
+  height: 31.4px;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 48.1px;
+  height: 45px;
+}
+.group-child1,
+.group-icon,
+.group-inner,
+.group-parent2 {
+  position: absolute;
+  top: 0;
+  left: 68.4px;
+  width: 48.1px;
+  height: 45px;
+}
+.group-child1,
+.group-icon,
+.group-parent2 {
+  left: 136.8px;
+}
+.group-child1,
+.group-parent2 {
+  left: 205.2px;
+}
+.group-parent2 {
+  top: 157px;
+  left: 0;
+  width: 253.3px;
+}
+.subscribe-newsletter-parent {
+  position: absolute;
+  top: 0;
+  left: 1011.6px;
+  width: 336px;
+  height: 201.9px;
+  font-size: var(--font-size-7xl);
+}
+.group-parent1,
+.line-div {
+  position: absolute;
+  left: 180px;
+}
+.group-parent1 {
+  top: 67.8px;
+  width: 1347.6px;
+  height: 219.7px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-poppins);
+}
+.line-div {
+  top: 392.9px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1369px;
+  height: 1px;
+}
+.copyright-2024,
+.privacy-policy,
+.trms-condition {
+  position: absolute;
+  top: 416.5px;
+  left: 1244.4px;
+  font-weight: 500;
+  display: inline-block;
+  width: 121.2px;
+  height: 21.3px;
+}
+.copyright-2024,
+.trms-condition {
+  left: 1399.2px;
+  width: 150px;
+}
+.copyright-2024 {
+  left: 175.2px;
+  width: 343.2px;
+}
+.group-child2 {
+  position: absolute;
+  top: 419.8px;
+  left: 1382.4px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 16.7px;
+}
+.group-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1728px;
+  height: 460.6px;
+}
+.group-child3,
+.rectangle-div {
+  position: absolute;
+  top: 139.6px;
+  left: 1191.6px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  width: 356.4px;
+  height: 56.1px;
+}
+.group-child3 {
+  left: 1466.4px;
+  border-radius: 0 var(--br-8xs) var(--br-8xs) 0;
+  background-color: var(--color-gray);
+  width: 81.6px;
+}
+.your-email {
+  position: absolute;
+  top: 160.7px;
+  left: 1222px;
+  color: var(--color-silver);
+  display: inline-block;
+  width: 92.4px;
+  height: 21.3px;
+}
+.vector-icon {
+  position: absolute;
+  top: 154.1px;
+  left: 1493px;
+  width: 28px;
+  height: 25.8px;
+  object-fit: contain;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 5.17%;
+  width: 1.67%;
+  top: 94.83%;
+  right: 0.06%;
+  bottom: 0;
+  left: 98.28%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-container,
+.logo-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1728px;
+  height: 553.7px;
+}
+.logo-icon {
+  top: 47.6px;
+  left: 165px;
+  width: 161px;
+  height: 69.1px;
+  object-fit: cover;
+}
+.frame4,
+.group-parent {
+  position: absolute;
+  height: 553.7px;
+}
+.group-parent {
+  top: 0;
+  left: 1px;
+  width: 1728px;
+  text-align: left;
+  font-size: var(--small-text-size);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
+.frame4 {
+  top: 2772px;
+  left: -1px;
+  width: 1729px;
+  overflow: hidden;
+}

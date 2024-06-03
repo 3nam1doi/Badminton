@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Khula:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kdam+Thmor:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --small-text: Inter;
+  --font-kdam-thmor: "Kdam Thmor";
+  --font-poppins: Poppins;
+  --font-khula: Khula;
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --small-text-size: 16px;
+  --body-text-size: 20px;
+  --font-size-15xl: 34px;
+  --font-size-3xl: 22px;
+  --font-size-2xl: 21px;
+  --font-size-5xl: 24px;
+  --font-size-2xs: 11px;
+  --font-size-3xs: 10px;
+  --font-size-7xl: 26px;
+  --font-size-lg: 18px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-lightsteelblue: #a3bacf;
+  --color-black: #000;
+  --color-gainsboro: #e0e0e0;
+  --color-gray: #828282;
+  --color-silver: #bbb;
+
+  /* Spacing */
+  --spacing-m: 48px;
+
+  /* Gaps */
+  --gap-29xl: 48px;
+  --gap-5xs: 8px;
+
+  /* Paddings */
+  --padding-sm: 14px;
+  --padding-5xl: 24px;
+  --padding-3xs: 10px;
+  --padding-base: 16px;
+  --padding-xs: 12px;
+  --padding-5xs: 8px;
+  --padding-2xs: 11px;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+  --br-11xl: 30px;
+  --br-3xs: 10px;
+  --br-8xs: 5px;
+
+  /* Effects */
+  --button-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+}

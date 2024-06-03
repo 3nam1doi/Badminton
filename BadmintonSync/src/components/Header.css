@@ -1,0 +1,167 @@
+.explore,
+.explore1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.explore1 {
+  line-height: 150%;
+  font-weight: 500;
+}
+
+.explore {
+  width: 72px;
+  height: 30px;
+  color: inherit;
+  text-decoration: none;
+}
+
+.explore-wrapper {
+  width: 72px;
+  position: relative;
+  height: 30px;
+}
+
+.help-centre {
+  position: relative;
+  line-height: 150%;
+  font-weight: 500;
+  color: inherit;
+  text-decoration: none;
+}
+
+.items,
+.login {
+  font-family: var(--small-text);
+  color: var(--color-black);
+  text-align: left;
+}
+
+.items {
+  margin: 0;
+  position: absolute;
+  top: calc(50% - 15.5px);
+  right: 703px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  gap: var(--spacing-m);
+  font-size: var(--body-text-size);
+}
+
+.login {
+  position: relative;
+  font-size: var(--small-text-size);
+  line-height: 150%;
+  font-weight: 500;
+}
+
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-sm) var(--padding-5xl);
+  background-color: var(--color-white);
+  width: 106px;
+  box-shadow: var(--button-shadow);
+  border-radius: var(--br-5xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+.sign-up {
+  position: relative;
+  font-size: var(--small-text-size);
+  line-height: 150%;
+  font-weight: 500;
+  font-family: var(--small-text);
+  color: var(--color-white);
+  text-align: left;
+}
+
+.button1,
+.items1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.button1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-sm) var(--padding-5xl);
+  background-color: var(--color-black);
+  box-shadow: var(--button-shadow);
+  border-radius: var(--br-5xs);
+  justify-content: center;
+}
+
+.items1 {
+  position: absolute;
+  top: calc(50% - 26.5px);
+  right: 222px;
+  justify-content: flex-end;
+  gap: var(--spacing-m);
+}
+
+.navigation {
+  background-color: var(--color-lightsteelblue);
+  overflow: hidden;
+}
+
+.navigation,
+.navigation-wrapper {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 99px;
+}
+
+.frame-inner,
+.logo {
+  position: absolute;
+  top: 0;
+  left: -1px;
+  width: 1729px;
+  height: 978px;
+  overflow: hidden;
+}
+
+.logo {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 12px;
+  left: 205px;
+  width: 161px;
+  height: 74px;
+  background-image: url(/public/logo@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
+.ky-thuat-danh-cau-long-co-ban-icon {
+  position: absolute;
+  top: 99px;
+  left: 0;
+  width: 1729px;
+  height: 879px;
+  object-fit: cover;
+}
+
+.frame3 {
+  position: absolute;
+  top: 0;
+  left: -1px;
+  width: 1729px;
+  height: 978px;
+  overflow: hidden;
+}

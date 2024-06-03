@@ -1,0 +1,153 @@
+.group-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 444px;
+  height: 621px;
+}
+.unsplashudv1n0xipu8-icon {
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  width: 444px;
+  height: 319px;
+  object-fit: cover;
+}
+.nh-tp-luyn,
+.rectangle-group,
+.unsplashudv1n0xipu8-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.rectangle-group {
+  width: 444px;
+  height: 621px;
+}
+.nh-tp-luyn {
+  font-weight: 600;
+  display: inline-block;
+  width: 388px;
+}
+.h1 {
+  font-weight: 300;
+}
+.h,
+.lu-3-s {
+  position: absolute;
+  display: inline-block;
+}
+.h {
+  top: calc(50% + 54.5px);
+  left: calc(50% - 194px);
+  font-size: var(--font-size-5xl);
+  width: 177px;
+}
+.lu-3-s {
+  top: 61px;
+  left: 0;
+  font-size: var(--font-size-2xl);
+  line-height: 27px;
+  font-family: var(--font-khula);
+  width: 388px;
+}
+.nh-tp-luyn-tdtt-ph-th-parent,
+.star-child,
+.star-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 388px;
+  height: 181px;
+}
+.star-child,
+.star-item {
+  width: 21.2px;
+  height: 21px;
+}
+.star-item {
+  left: 28.3px;
+}
+.booking-child,
+.star,
+.star-child1,
+.star-icon,
+.star-inner {
+  position: absolute;
+  top: 0;
+  left: 56.5px;
+  width: 21.2px;
+  height: 21px;
+}
+.booking-child,
+.star,
+.star-child1,
+.star-icon {
+  left: 84.8px;
+}
+.booking-child,
+.star,
+.star-child1 {
+  left: 113px;
+}
+.booking-child,
+.star {
+  top: 193px;
+  left: 0.2px;
+  width: 134.2px;
+}
+.booking-child {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-black);
+}
+.booking-now {
+  position: absolute;
+  width: 73.09%;
+  top: 23.33%;
+  left: 13.73%;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  display: flex;
+  align-items: center;
+}
+.booking1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 25.42%;
+  width: 51.24%;
+  top: 74.58%;
+  right: 0.08%;
+  bottom: 0;
+  left: 48.69%;
+}
+.group-parent3,
+.taiwan {
+  position: absolute;
+  top: 353px;
+  left: 25px;
+  width: 388px;
+  height: 236px;
+}
+.taiwan {
+  top: 741px;
+  left: 0;
+  width: 444px;
+  height: 621px;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
